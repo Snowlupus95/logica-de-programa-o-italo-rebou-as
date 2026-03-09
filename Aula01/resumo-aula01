@@ -1,0 +1,25 @@
+*Algoritmo é simplesmente o passo a passo para fazer alguma coisa.
+
+É igual àquela lista de instruções que vem em tudo que a gente compra:
+
+    Manual do liquidificador
+
+    Receita de bolo da vovó
+
+    Instruções de montar um brinquedo
+
+    Modo de preparo do miojo
+
+Resumindo:
+Se tem uma sequência de passos organizados, é um algoritmo!
+
+*Entrada
+Tipo quando você digita seu nome em um cadastro ou coloca dois números numa calculadora.
+
+Processamento
+É o trabalho que o programa faz com o que você colocou. Ele junta, organiza, calcula ou guarda essas informações. É tipo a mágica que acontece dentro do computador enquanto você espera.
+
+Saída
+É o resultado final que aparece para você. Pode ser uma mensagem dizendo "cadastro feito", o resultado de uma conta ou até um erro falando que algo deu errado.
+
+*Exemplo: Passar roupa, primeiro passo: escolher a peça, segundo passo: programar o ferro para o tipo de tecido, terceiro passo: esperar a temperatura definida pelo fabricante, quarto passo: prosseguir o procedimento de alisar o tecido e por fim quinto passo: resfriar a peça.
